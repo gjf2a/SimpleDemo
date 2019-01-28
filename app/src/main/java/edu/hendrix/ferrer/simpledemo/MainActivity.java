@@ -6,6 +6,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+// Author: Gabriel Ferrer
+// This is a simple Android demo.
+
 public class MainActivity extends AppCompatActivity {
 
     private Button reverser;
